@@ -25,7 +25,3 @@ dgubun[B6011] expcode[KR7005930003] seqno[00359] volume[000000324641] offer1[001
 3. JSON메시지로부터 추출된 값으로 설정한 구조체 출력 :
 dgubun[B6011] expcode[KR7005930003] seqno[359] volume[324641] offer1[1445000] bid1[1444000] offerrem1[5] bidrem1[4] offer2[1446000] bid2[1443000] offerrem2[12] bidrem2[14] offer3[1447000] bid3[1442000] offerrem3[19] bidrem3[16] offer4[0] bid4[0] offerrem4[0] bidrem4[0] offer5[0] bid5[0] offerrem5[0] bidrem5[0] offer6[0] bid6[0] offerrem6[0] bidrem6[0] offer7[0] bid7[0] offerrem7[0] bidrem7[0] offer8[0] bid8[0] offerrem8[0] bidrem8[0] offer9[0] bid9[0] offerrem9[0] bidrem9[0] offer10[0] bid10[0] offerrem10[0] bidrem10[0] T_offerrem[0] T_bidrem[0] ptmofferrem[0] ptmbidrem[0] otmofferrem[942] otmbidrem[0] sid[20] boardid[프리보드] booltest1[1] booltest2[0] realtest[123456789.120000] yeprice[1445000] yevolume[9] bddirgb[0] filler[]
 
-
-==============================================================================================
-결과 : 테스트건수[1] 총걸린시간[380062 나노초] 건당걸린시간[380062 나노초]
-==============================================================================================
