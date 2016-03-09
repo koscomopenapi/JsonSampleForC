@@ -18,7 +18,7 @@ dgubun[B6011] expcode[KR7005930003] seqno[00359] volume[000000324641] offer1[001
 
 ==============================================================================================
 2. 생성된 JSON메시지 출력 :
-json_dumps => {"hogaData": {"dgubun": "B6011", "expcode": "KR7005930003", "seqno": 359, "volume": 324641, "hoga": [{"offer": 1445000, "bid": 1444000, "offerrem": 5, "bidrem": 4}, {"offer": 1446000, "bid": 1443000, "offerrem": 12, "bidrem": 14}, {"offer": 1447000, "bid": 1442000, "offerrem": 19, "bidrem": 16}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}], "T_offerrem": 0, "T_bidrem": 0, "ptmofferrem": 0, "ptmbidrem": 0, "otmofferrem": 942, "otmbidrem": 0, "sid": "20", "booltest1": true, "booltest2": false, "realtest": 123456789.12, "boardid": "프리보드", "yeprice": 1445000, "yevolume": 9, "bddirgb": "0", "filler": null}}
+{"hogaData": {"dgubun": "B6011", "expcode": "KR7005930003", "seqno": 359, "volume": 324641, "hoga": [{"offer": 1445000, "bid": 1444000, "offerrem": 5, "bidrem": 4}, {"offer": 1446000, "bid": 1443000, "offerrem": 12, "bidrem": 14}, {"offer": 1447000, "bid": 1442000, "offerrem": 19, "bidrem": 16}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}, {"offer": 0, "bid": 0, "offerrem": 0, "bidrem": 0}], "T_offerrem": 0, "T_bidrem": 0, "ptmofferrem": 0, "ptmbidrem": 0, "otmofferrem": 942, "otmbidrem": 0, "sid": "20", "booltest1": true, "booltest2": false, "realtest": 123456789.12, "boardid": "프리보드", "yeprice": 1445000, "yevolume": 9, "bddirgb": "0", "filler": null}}
 
 
 ==============================================================================================
@@ -27,5 +27,5 @@ dgubun[B6011] expcode[KR7005930003] seqno[359] volume[324641] offer1[1445000] bi
 
 
 ==============================================================================================
-결과 : 테스트건수[1] 총걸린시간[317918 나노초] 건당걸린시간[317918 나노초]
+결과 : 테스트건수[1] 총걸린시간[380062 나노초] 건당걸린시간[380062 나노초]
 ==============================================================================================
